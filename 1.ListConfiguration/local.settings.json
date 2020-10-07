@@ -7,7 +7,7 @@
     "localSettingsString": "localSettingsStringValue",
     "localSettingsInteger": 42,
     "localSettingsBoolean": true,
-    "localSettingsNumber": 4.2
+    "localSettingsNumber": 4.2,
 
     // If you include arrays or objects, the runtime will silently fail to process your local.settings.json and none
     // of your settings will be available.
