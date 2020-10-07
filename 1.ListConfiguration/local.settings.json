@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+
+    "localSettingsString": "localSettingsStringValue",
+    "localSettingsInteger": 42,
+    "localSettingsBoolean": true,
+    "localSettingsNumber": 4.2
+
+    // If you include arrays or objects, the runtime will silently fail to process your local.settings.json and none
+    // of your settings will be available.
+    //"localSettingsObject": {
+    //  "value1": 1,
+    //  "value2": "thing"
+    //}
+  }
+}
